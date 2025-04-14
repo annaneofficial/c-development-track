@@ -1,7 +1,7 @@
 # 🚀 My Journey to Becoming a C Developer
 
 <p align="center">
-  <img src="https://sdmntprwestus2.oaiusercontent.com/files/00000000-f558-61f8-a65d-0c258a1750ca/raw?se=2025-04-14T20%3A52%3A00Z&sp=r&sv=2024-08-04&sr=b&scid=f1ca2468-5348-593b-b1fe-b6cc6d55041f&skoid=b53ae837-f585-4db7-b46f-2d0322fce5a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-14T06%3A30%3A30Z&ske=2025-04-15T06%3A30%3A30Z&sks=b&skv=2024-08-04&sig=92dRu/CYfUtg/pYiHutSdLWkinPzbijfj4SCcFsp9h4%3D" alt="My C Dev Journey Logo" width="200"/>
+  <img src="https://sdmntprwestus2.oaiusercontent.com/files/00000000-f558-61f8-a65d-0c258a1750ca/raw?se=2025-04-14T20%3A52%3A00Z&sp=r&sv=2024-08-04&sr=b&scid=f1ca2468-5348-593b-b1fe-b6cc6d55041f&skoid=b53ae837-f585-4db7-b46f-2d0322fce5a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-14T06%3A30%3A30Z&ske=2025-04-15T06%3A30%3A30Z&sks=b&skv=2024-08-04&sig=92dRu/CYfUtg/pYiHutSdLWkinPzbijfj4SCcFsp9h4%3D" alt="My C Dev Journey Logo" width="400"/>
 </p>
 
 
