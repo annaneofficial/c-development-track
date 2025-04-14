@@ -91,7 +91,7 @@ Welcome to my personal journey into the world of **C programming**. This reposit
 ## 📌 Milestones
 - [x] Wrote my first C program
 - [x] Completed foundational C concepts
-- [] Mastered pointers and dynamic memory
+- [ ] Mastered pointers and dynamic memory
 - [ ] Build a custom memory manager
 - [ ] Create a fully working Unix-style shell
 - [ ] Complete a web server using sockets
